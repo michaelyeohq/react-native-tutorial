@@ -19,9 +19,10 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   headerTitle: {
-      color: 'black',
-      fontSize: 18,
-  }
+    color: "black",
+    fontSize: 18,
+    fontFamily: "open-sans-bold",
+  },
 });
 
 export default Header;
